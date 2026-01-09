@@ -1,2 +1,2 @@
 # Soul-Thoughts
-It's a website made completely by me. without any AI help or ready made code! because it was made before the AI craze. when i was in diploma 2nd year CS during COVID holidays.
+It's the first website I tried to code after watching youtube videos! it was the time of COVID. when my HTML & CSS study was ongoing in academics. So, I tried my hand out to make something on my own.
